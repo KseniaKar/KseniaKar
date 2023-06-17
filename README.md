@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello wonderful world 🌟
+
+<div id = "header" align = "center" >
+<h1>Hi there, I'm Kseniia</h1>
+<h3> Scientist, data scientist, data analyst </h3>  
+</div>
 
 <!--
 **KseniaKar/KseniaKar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

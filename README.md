@@ -5,13 +5,13 @@
 
 </div>
 
-
-
-- 🔭 I’m currently working on Binp Institute of Nuclear Physics
-
-
-
 ## I'm a Scientist, Data scientist, Data analyst!
+
+- 🔭 I’m currently working on Budker Institute of Nuclear Physics
+
+
+
+
 
 
 ### Connect with me:

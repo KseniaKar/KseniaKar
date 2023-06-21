@@ -1,8 +1,8 @@
 ### Hello wonderful world 🌟
 
 <div id = "header" align = "center" >
-<h1>Hi there, I'm Kseniia</h1>
-<h3> Scientist, data scientist, data analyst </h3>  
+<h1>Hi there, I'm Kseniia ✨</h1>
+
 </div>
 
 <!--

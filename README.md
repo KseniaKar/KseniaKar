@@ -18,13 +18,9 @@ Here are some ideas to get you started:
 
 
 ### Connect with me:
-[<img align="left" alt="opa_oz | Twitter" width="22px" src="https://t.me/kseniakeera" />][twitter]
-[<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 [<img align="left" alt="opa_oz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 
-[yandex]: https://yandex.ru/
-[twitter]: https://twitter.com/ru_opa
-[linkedin]: https://www.linkedin.com/in/opa-oz/
-[instagram]: https://www.instagram.com/opa_oz/
+[instagram]: https://www.instagram.com/kskaryukina/

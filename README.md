@@ -5,7 +5,7 @@
 
 </div>
 
-## I'm a Scientist, Data scientist, Data analyst!
+## I'm a Scientist
 
 - 🔭 I’m currently working on Budker Institute of Nuclear Physics
 
